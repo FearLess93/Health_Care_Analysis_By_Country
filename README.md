@@ -1,4 +1,4 @@
-# Health_Care_Analysis_By_Country
+# Health Care Analysis
 
 ## Project Goal
 This project was undertaken to proactively identify which countries are in the most critical need of improved healthcare and welfare. The objective was to utilize provided databases containing global health and economic indicators to clean, transform, analyze, and visualize data to pinpoint nations requiring immediate intervention.
